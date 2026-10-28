@@ -1,0 +1,8 @@
+{
+    "buildNumber": 2,
+    "apkDownloadUrl": "https://github.com/harry-tan-15/pirate-4pcoop/releases/latest/download/PirateCoop4P.apk",
+    "patchNotes": "v2 (Oct 28) - Dual Broadsides & Open Sea!",
+    "stage1BossHp": 150,
+    "boatMoveSpeed": 5.400000095367432,
+    "boatFireInterval": 1.149999976158142
+}
